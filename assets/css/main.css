@@ -3623,7 +3623,7 @@ input, select, textarea {
 		padding: 0 2rem 0 0;
 		position: relative;
 		width: calc(100% - 1rem);
-		max-width: 140rem;
+		max-width: 127rem;
 		z-index: 2;
 	}
 
@@ -3713,7 +3713,7 @@ input, select, textarea {
 					display: block;
 					font-size: 0.8rem;
 					outline: none;
-					padding: 0 2rem;
+					padding: 0 1rem;
 				}
 
 					#nav ul.links li a:hover {
