@@ -3623,7 +3623,7 @@ input, select, textarea {
 		padding: 0 0.8rem 0 0;
 		position: relative;
 		width: calc(100% - 1rem);
-		max-width: 7rem;
+		max-width: 15rem;
 		z-index: 2;
 	}
 
